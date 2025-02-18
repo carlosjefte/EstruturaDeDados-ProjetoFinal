@@ -1,46 +1,80 @@
-Matrícula: 1324583 
-Nome: Frederic Maveric 
-Número de Dependentes: 2 
-Salário: 5000.00 
-Cargo: Contador 
-Data de Admissão: 29/11/2023 
+x----------------------------x
+Matrícula: 1324580
+Nome: Felipe Andrade
+Número de Dependentes: 1
+Salário: 8200.00
+Cargo: Analista de Recursos Humanos
+Data de Admissão: 15/08/2022
 x----------------------------x
 
-Matrícula: 1324584  
-Nome: Amanda Oliveira  
-Número de Dependentes: 1  
-Salário: 4200.00  
-Cargo: Analista de Recursos Humanos  
-Data de Admissão: 15/08/2022  
-x----------------------------x  
+Matrícula: 1324581
+Nome: Mariana Santos
+Número de Dependentes: 1
+Salário: 4200.00
+Cargo: Analista de Recursos Humanos
+Data de Admissão: 15/08/2022
+x----------------------------x
 
-Matrícula: 1324585  
-Nome: Bruno Carvalho  
-Número de Dependentes: 3  
-Salário: 5500.00  
-Cargo: Engenheiro de Software  
-Data de Admissão: 03/02/2021  
-x----------------------------x  
+Matrícula: 1324582
+Nome: Bruno Carvalho
+Número de Dependentes: 3
+Salário: 3800.00
+Cargo: Engenheiro de Software
+Data de Admissão: 03/02/2021
+x----------------------------x
 
-Matrícula: 1324586  
-Nome: Camila Duarte  
-Número de Dependentes: 0  
-Salário: 3800.00  
-Cargo: Assistente Administrativo  
-Data de Admissão: 20/05/2020  
-x----------------------------x  
+Matrícula: 1324583
+Nome: Camila Duarte
+Número de Dependentes: 0
+Salário: 3800.00
+Cargo: Assistente Administrativo
+Data de Admissão: 20/05/2020
+x----------------------------x
 
-Matrícula: 1324587  
-Nome: Daniel Souza  
-Número de Dependentes: 2  
-Salário: 6000.00  
-Cargo: Gerente de Projetos  
-Data de Admissão: 12/09/2019  
-x----------------------------x  
+Matrícula: 1324584
+Nome: Daniel Souza
+Número de Dependentes: 2
+Salário: 6000.00
+Cargo: Gerente de Projetos
+Data de Admissão: 12/09/2019
+x----------------------------x
 
-Matrícula: 1324588  
-Nome: Elisa Martins  
-Número de Dependentes: 1  
-Salário: 4700.00  
-Cargo: Desenvolvedora Web  
-Data de Admissão: 07/04/2021  
+Matrícula: 1324585
+Nome: Elisa Martins
+Número de Dependentes: 1
+Salário: 4700.00
+Cargo: Desenvolvedora Web
+Data de Admissão: 07/04/2021
+x----------------------------x
+
+Matrícula: 1324586
+Nome: Rafael Lima
+Número de Dependentes: 1
+Salário: 1000.00
+Cargo: Desenvolvedora Web
+Data de Admissão: 07/04/2021
+x----------------------------x
+
+Matrícula: 1324587
+Nome: Juliana Pereira
+Número de Dependentes: 1
+Salário: 2000.00
+Cargo: Desenvolvedora Web
+Data de Admissão: 07/04/2021
+x----------------------------x
+
+Matrícula: 1324588
+Nome: Gustavo Almeida
+Número de Dependentes: 1
+Salário: 9400.00
+Cargo: Desenvolvedora Web
+Data de Admissão: 07/04/2021
+x----------------------------x
+
+Matrícula: 1324589
+Nome: Fernanda Costa
+Número de Dependentes: 1
+Salário: 9400.00
+Cargo: Desenvolvedora Web
+Data de Admissão: 07/04/2021
+x----------------------------x

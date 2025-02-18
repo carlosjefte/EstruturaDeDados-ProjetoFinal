@@ -42,6 +42,5 @@ void calcularDistribuicaoFrequencia(ListaFuncionarios *lista) {
 
 
 float calcularSalarioModal(ListaFuncionarios *lista) { // Corrigido: agora recebe ListaFuncionarios *
-    return printf("ok");
-    // return lista->quantidade > 0 ? lista->funcionarios[0].salario : 0;
+    return lista->quantidade > 0 ? lista->funcionarios[0].salario : 0;
 }
