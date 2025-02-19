@@ -77,7 +77,9 @@ x----------------------------x
 - Implementação de uma estrutura real de hash table.
 - Opção para salvar os funcionários ordenados em um novo arquivo.
 
-## Autor
+## Autores
+- Carlos Jefté Bastos de Mesquita Freire
+- Jefte Damaceno de Moura
 
-Este projeto foi desenvolvido como parte de um estudo prático em linguagem C para manipulação de dados estruturados.
+Este projeto foi desenvolvido como parte de um estudo prático em linguagem C para manipulação de dados estruturados
 
