@@ -34,7 +34,7 @@ ProjetoFinal/
 Para compilar o programa, utilize o GCC:
 
 ```sh
-gcc main.c funcionarios.c estatisticas.c ordenacao.c frequencia.c hash_table.c -o programa -lm
+gcc main.c funcionarios.c estatisticas.c ordenacao.c frequencia.c -o programa -lm
 ```
 
 Para executar o programa:
