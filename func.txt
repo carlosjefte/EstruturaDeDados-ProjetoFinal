@@ -58,9 +58,17 @@ x----------------------------x
 Matrícula: 1324587
 Nome: Juliana Pereira
 Número de Dependentes: 1
-Salário: 2000.00
+Salário: 1000.00
 Cargo: Desenvolvedora Web
 Data de Admissão: 07/04/2021
+x----------------------------x
+
+Matrícula: 1324381
+Nome: Ju Fake
+Número de Dependentes: 1
+Salário: 1000.00
+Cargo: Desenvolvedora Web
+Data de Admissão: 07/04/2022
 x----------------------------x
 
 Matrícula: 1324588

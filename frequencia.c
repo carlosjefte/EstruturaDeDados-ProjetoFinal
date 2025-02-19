@@ -41,6 +41,30 @@ void calcularDistribuicaoFrequencia(ListaFuncionarios *lista) {
 }
 
 
-float calcularSalarioModal(ListaFuncionarios *lista) { // Corrigido: agora recebe ListaFuncionarios *
-    return lista->quantidade > 0 ? lista->funcionarios[0].salario : 0;
+float calcularSalarioModal(ListaFuncionarios *lista) {
+    if (lista->quantidade == 0) return 0;
+
+    // Criar um mapa de frequência (tabela hash simples)
+    float moda = 0;
+    int max_frequencia = 0;
+    
+    for (int i = 0; i < lista->quantidade; i++) {
+        float salario_atual = lista->funcionarios[i].salario;
+        int frequencia = 0;
+
+        // Contar quantas vezes esse salário aparece na lista
+        for (int j = 0; j < lista->quantidade; j++) {
+            if (lista->funcionarios[j].salario == salario_atual) {
+                frequencia++;
+            }
+        }
+
+        // Atualizar moda se esse salário for mais frequente
+        if (frequencia > max_frequencia) {
+            max_frequencia = frequencia;
+            moda = salario_atual;
+        }
+    }
+
+    return moda;
 }

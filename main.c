@@ -29,7 +29,7 @@ void menu(ListaFuncionarios *lista) {
                 imprimirHashTables(lista);
                 break;
             case 2:
-                concederBonificacao(lista);
+                aplicarBonificacao(lista);
                 printf("Bonificação aplicada com sucesso!\n");
                 break;
             case 3:

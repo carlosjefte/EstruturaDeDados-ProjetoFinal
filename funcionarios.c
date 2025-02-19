@@ -58,6 +58,7 @@ void aplicarBonificacao(ListaFuncionarios *lista) {
     for (int i = 0; i < lista->quantidade; i++) {
         if (lista->funcionarios[i].salario <= 2500.00 || lista->funcionarios[i].dependentes >= 2) {
             lista->funcionarios[i].salario *= 1.05;
+            printf("Funcionário %s recebeu bonificação de 5%%.\n", lista->funcionarios[i].nome);
         }
     }
 }

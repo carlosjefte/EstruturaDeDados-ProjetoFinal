@@ -25,8 +25,6 @@ void carregarFuncionarios(ListaFuncionarios *lista, const char *arquivo);
 void aplicarBonificacao(ListaFuncionarios *lista);
 int contarFuncionariosTresAnos(ListaFuncionarios *lista);
 void imprimirFuncionarios(ListaFuncionarios *lista);
-void concederBonificacao(ListaFuncionarios *lista); // Adicionado
 void imprimirHashTables(ListaFuncionarios *lista); // Adicionado
-void lerArquivo(const char *arquivo, ListaFuncionarios *lista); // Adicionado
 
 #endif
